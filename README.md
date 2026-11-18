@@ -55,8 +55,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 Aqui esta alguns um dos meus principais projetos que desenvolvi para aplicar meus conhecimentos:
 
 *   💻 [Agente Padre Católico](https://github.com/luisotav0/primeiro_agente_ia.git):
-  Neste repositorio está o código fonte de um sistema de dashbord, para ver o lucro sobre as lojas filiadas.
-
+  Neste repositorio está o código fonte de um sistema de agenteIA, para tirar duvidas sobre a fé Catolica!
 
 
 
