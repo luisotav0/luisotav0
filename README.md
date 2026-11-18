@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 </picture>
 
 <p align="center">
-  <i>"Colossenses 3:23 – E tudo o que fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens". </i>
+  <i>"I Coríntios 9, 22 – Fiz-me fraco com os fracos, a fim de ganhar os fracos. Fiz-me tudo para todos, a fim de salvar a todos.". </i>
 </p>
 
 --- 
